@@ -1,0 +1,20 @@
+.blogPost { 
+    position: absolute;
+    top: 162px;
+    left: 35%;
+    height: 300px;
+    width: 220px;
+    color: red
+    
+
+}
+.submit {
+    position: absolute;
+    color: red;
+    right: 25%;
+    bottom: 450px;
+    border-bottom-right-radius: 10%;
+    width: 70px;
+    height: 65px;
+
+}
